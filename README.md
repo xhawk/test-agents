@@ -18,7 +18,7 @@ source .venv/bin/activate  # macOS / Linux
 
 2. Install dependencies if a `pyproject.toml` exists:
 ```bash
-pip install -e .
+uv pip install -e .
 ```
 
 ## Usage
